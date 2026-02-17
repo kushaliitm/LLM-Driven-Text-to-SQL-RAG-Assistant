@@ -37,8 +37,6 @@ The architecture of the Text to SQL Chatbot consists of the following components
 - **LLM Chain**: Uses a large language model to convert natural language questions into SQL queries.
 - **Output Parser**: Processes the SQL query output and formats it for user display.
 
-<img width="1546" height="712" alt="image" src="https://github.com/user-attachments/assets/720e2ea2-b91a-4c06-b250-f55a19006c72" />
-
  📊 Evaluation
 The performance of the chatbot can be evaluated using various metrics, including:
 - **Accuracy**: How accurately the LLM generates the correct SQL queries.
